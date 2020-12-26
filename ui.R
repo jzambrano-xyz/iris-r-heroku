@@ -7,7 +7,7 @@ TrainSet <- TrainSet[,-1]
 pageWithSidebar(
 
   # Page header
-  headerPanel('Iris Predictor'),
+  headerPanel('Iris Predictor with Random Forest'),
 
   # Input values
   sidebarPanel(
